@@ -1,0 +1,21 @@
+lucindauk:
+  name: "Lucinda's home"
+  description: "Charming room in rural Yorkshire village"
+  city_name: "Yorkshire, England"
+  city_slug: "yorkshire"
+  wifi: true
+  rating: 5
+dideashi:
+  name: "Deashi's home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 4
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: false
+  rating: 2
